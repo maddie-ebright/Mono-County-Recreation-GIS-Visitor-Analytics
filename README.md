@@ -1,4 +1,3 @@
-# Mono-County-Recreation-GIS-Visitor-Analytics
 # Mono County Recreation Analytics & GIS
 
 ## Project Overview
