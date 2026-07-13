@@ -122,7 +122,7 @@ The goal is to combine recreation activity with visitor behavior and economic da
 - Strava Metro
 - Interactive Mapping
 - Spatial Analysis
-- Data Visualization
+- Data Visualization such as line graphs and bar charts
 - GitHub
 
 ---
